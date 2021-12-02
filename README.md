@@ -1,2 +1,1 @@
-# carPriceprediction_org
-carPriceprediction_org
+# Car-Price-Prediction
